@@ -1,0 +1,45 @@
+SWIMMING_KEYPOINTS = [
+    "head_top",
+    "neck",
+    "left_shoulder",
+    "right_shoulder",
+    "left_elbow",
+    "right_elbow",
+    "left_wrist",
+    "right_wrist",
+    "left_hand_center",
+    "right_hand_center",
+    "sternum",
+    "pelvis_center",
+    "left_hip",
+    "right_hip",
+    "left_knee",
+    "right_knee",
+    "left_ankle",
+    "right_ankle",
+    "left_toe",
+    "right_toe",
+]
+
+FREESTYLE_PHASES = [
+    "entry",
+    "extension",
+    "catch",
+    "pull",
+    "push",
+    "recovery",
+]
+
+FREESTYLE_TECHNICAL_PROBLEMS = [
+    "cross_over_entry",
+    "over_wide_entry",
+    "dropped_elbow",
+    "insufficient_catch",
+    "early_push_termination",
+    "hip_drop",
+    "head_lift",
+    "insufficient_hip_roll",
+    "left_right_asymmetry",
+    "excessive_kick_amplitude",
+    "insufficient_ankle_relaxation",
+]
